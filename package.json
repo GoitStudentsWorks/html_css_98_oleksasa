@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/DevDemons/",
+    "build": "vite build --base=/html_css_98_oleksasa/",
     "preview": "vite preview"
   },
   "devDependencies": {
